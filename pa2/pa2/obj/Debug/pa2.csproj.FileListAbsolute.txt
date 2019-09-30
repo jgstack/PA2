@@ -1,0 +1,7 @@
+C:\Users\Grayson\Source\Repos\PA2\pa2\pa2\bin\Debug\pa2.exe.config
+C:\Users\Grayson\Source\Repos\PA2\pa2\pa2\bin\Debug\pa2.exe
+C:\Users\Grayson\Source\Repos\PA2\pa2\pa2\bin\Debug\pa2.pdb
+C:\Users\Grayson\Source\Repos\PA2\pa2\pa2\obj\Debug\pa2.csprojAssemblyReference.cache
+C:\Users\Grayson\Source\Repos\PA2\pa2\pa2\obj\Debug\pa2.csproj.CoreCompileInputs.cache
+C:\Users\Grayson\Source\Repos\PA2\pa2\pa2\obj\Debug\pa2.exe
+C:\Users\Grayson\Source\Repos\PA2\pa2\pa2\obj\Debug\pa2.pdb
